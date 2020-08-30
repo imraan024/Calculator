@@ -4,7 +4,7 @@ public class Start
 {
 	public static void main(String args[])
 	{
-		FirstGui fg = new FirstGui();
-		fg.setVisible(true);
+		Calculator calc = new Calculator();
+		calc.setVisible(true);
 	}
 }
